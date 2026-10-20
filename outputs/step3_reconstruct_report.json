@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "part_category": "knob",
+  "source_mask": "outputs/segmented/clean_view1_sharp.jpg.png",
+  "raw_mesh_path": "outputs/raw_ai_mesh.obj",
+  "unconstrained_extents": [
+    0.96,
+    0.96,
+    0.42
+  ]
+}

@@ -1,0 +1,11 @@
+opencv-python-headless
+numpy
+trimesh
+scipy
+manifold3d
+pillow
+rembg
+onnxruntime
+fastapi
+uvicorn
+python-multipart
