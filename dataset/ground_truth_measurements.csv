@@ -1,0 +1,6 @@
+part_id,name,category,length_mm,width_mm,height_mm,hole_mm,stl_path
+P01,stove_knob,knob,40.0,40.0,18.0,6.0,dataset/ground_truth_stl/P01_stove_knob.stl
+P02,volume_dial,knob,28.0,28.0,15.0,6.0,dataset/ground_truth_stl/P02_volume_dial.stl
+P03,shelf_bracket,l_bracket,45.0,20.0,30.0,5.0,dataset/ground_truth_stl/P03_shelf_bracket.stl
+P04,nylon_spacer,spacer,18.0,18.0,12.0,5.0,dataset/ground_truth_stl/P04_nylon_spacer.stl
+P05,battery_cover,cover,55.0,32.0,4.0,3.0,dataset/ground_truth_stl/P05_battery_cover.stl

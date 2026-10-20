@@ -1,0 +1,35 @@
+{
+  "ready_for_3d_reconstruction": true,
+  "accepted_photos_count": 2,
+  "rejected_photos_count": 1,
+  "photo_details": [
+    {
+      "file": "view1_sharp.jpg",
+      "blur_score": 962.4,
+      "coverage_percent": 17.2,
+      "accepted": true,
+      "segmented_mask_path": "outputs/segmented\\clean_view1_sharp.jpg.png"
+    },
+    {
+      "file": "view2_sharp.jpg",
+      "blur_score": 962.4,
+      "coverage_percent": 17.2,
+      "accepted": true,
+      "segmented_mask_path": "outputs/segmented\\clean_view2_sharp.jpg.png"
+    },
+    {
+      "file": "view3_blurry.jpg",
+      "blur_score": 0.5,
+      "accepted": false
+    }
+  ],
+  "view_overlap_checks": [
+    {
+      "pair": "view1_sharp.jpg <-> view2_sharp.jpg",
+      "matched_features": 144
+    }
+  ],
+  "warnings_and_prompts": [
+    "Rejected 'view3_blurry.jpg' due to motion/focus blur (score: 0.5). Retake photo."
+  ]
+}
