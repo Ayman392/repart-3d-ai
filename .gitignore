@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+outputs/step4_*.stl
+outputs/undersized_test.stl
+outputs/test_knob.stl
+
+# Generated slicer outputs
+outputs/*.gcode
+
+# Local backup copies
+step4_constrain_and_validate.backup.py
