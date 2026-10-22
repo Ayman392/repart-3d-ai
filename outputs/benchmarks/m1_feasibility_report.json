@@ -1,0 +1,16 @@
+{
+  "hardware_platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "processor": "arm",
+  "python_version": "3.14.7",
+  "apple_silicon_optimized": true,
+  "benchmark_metrics": [
+    {
+      "operation": "OpenCV Blur Check",
+      "avg_time_ms": 0.84
+    },
+    {
+      "operation": "AI Background Removal (rembg)",
+      "avg_time_ms": 245677.36
+    }
+  ]
+}
