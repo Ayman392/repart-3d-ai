@@ -11,3 +11,9 @@ outputs/*.gcode
 
 # Local backup copies
 step4_constrain_and_validate.backup.py
+
+# Temporary geometry test inputs
+outputs/nonuniform_test_input.stl
+
+# Generated parametric template meshes
+outputs/parametric_*.stl
